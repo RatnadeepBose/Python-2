@@ -1,66 +1,25 @@
-#Data Types in Python
+# DATA TYPES
+# Integer
+num = 10
+print(num, type(num))  # 10 <class 'int'>
 
-#integer
-#Float
-#String
-#Boolean
-#none   
+# Float
+pi = 3.14
+print(pi, type(pi))  # 3.14 <class 'float'>
 
+# Boolean
+is_true = True
+print(is_true, type(is_true))  # True <class 'bool'>
 
-#integers
+# None
+nothing = None
+print(nothing, type(nothing))  # None <class 'NoneType'>
 
-number1 = 10
-print(number1)
-
-
-#type
-
-a= 23
-print(type(a))
-
-
-print(number1)
-print("number1")
-
-
-
-
-#float
-
-f = 3.14
-print(f)
-print(type(f))
-
-
-#boolean
-
-z= True
-print(z)
-print(type(z))
-
-#none
-n= None
-print(n)
-print(type(n))
-
-
-
-#string
-
+# String
 name = "Rahul"
-print(name)
-print(type(name))
+print(name, type(name))  # Rahul <class 'str'>
 
-
-
-m= """ This is a multi-line string.
-It can span multiple lines."""
-
-print(m)
-print(type(m))
-
-
-
-n= None
-print(n)
-print(type(n))
+# Multi-line string
+multi = """Line1
+Line2"""
+print(multi, type(multi))

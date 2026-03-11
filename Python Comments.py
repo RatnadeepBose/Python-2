@@ -1,6 +1,10 @@
-# This is a comment in Python. Comments are used to explain code and are ignored by the Python interpreter.
+# COMMENTS - Single line comment
 
-#a=5
-#b=10
-#c=a+b
-#print(c) # This will print the value of c, which is 15
+"""
+Multi-line comment
+or docstring
+"""
+
+# a = 5  # Commented code
+# b = 10
+# print(a + b)  # 15

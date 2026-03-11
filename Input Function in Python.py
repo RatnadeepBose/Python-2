@@ -1,14 +1,12 @@
-# name = input()
-# print("Hello " + name)
-# print(name)
-# print(type(name))
+# INPUT FUNCTION
+name = input("Enter name: ")
+print("Hello " + name)
+print(name)
+print(type(name))  # <class 'str'>
 
-# type conversion
-
-a = float(input("Enter a number: "))
-print(a)
-print(type(a))
+# Type conversion
+a = float(input("Enter number: "))
+print(a, type(a))  # 5.0 <class 'float'>
 
 b = int(a)
-print(b)
-print(type(b))
+print(b, type(b))  # 5 <class 'int'>
