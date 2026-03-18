@@ -33,7 +33,7 @@ def larger(u, i):
         return i
 
 print("Regular function:")
-print(larger(10, 5))    # 1
+print(larger(10, 5))    # 
 print(larger(3, 8))     # 8
 print(larger(7, 7))     # 7
 
