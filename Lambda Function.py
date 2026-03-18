@@ -19,7 +19,7 @@ print((lambda a, b: a + b)(9, 3))  #
 
 # Lambda stored in variable
 func = lambda z, x: z + x
-print(func(9, 4))       # 
+print(func(9, 4))       
 
 print("\n" + "=" * 50)
 print("2️⃣ LAMBDA WITH CONDITIONALS")
