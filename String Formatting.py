@@ -17,4 +17,4 @@ print("Hello, {}! You are {} years old.".format(name, age))
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 # Using % operator for string formatting 
-print("Hello, %s! You are %d years old." % (name, age))
+print("Hello, %s! You are %d years old." % (name, age)) 
