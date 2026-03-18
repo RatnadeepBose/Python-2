@@ -11,7 +11,7 @@ def add(a, b):
     return a + b
 
 print("Regular function:")
-print(add(3, 3))        # 6
+print(add(3, 3))        
 
 # Lambda function
 print("\nLambda function:")
