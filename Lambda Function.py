@@ -15,7 +15,7 @@ print(add(3, 3))
 
 # Lambda function
 print("\nLambda function:")
-print((lambda a, b: a + b)(9, 3))  # 
+print((lambda a, b: a + b)(9, 3))  
 
 # Lambda stored in variable
 func = lambda z, x: z + x
