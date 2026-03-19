@@ -1,0 +1,6 @@
+--- EDITED VERSION ---
+This is a new file!
+I am learning file handling in PYTHON.
+This is line 3.
+This line is appended.
+Adding more content!
