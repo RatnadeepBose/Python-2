@@ -4,9 +4,9 @@
 
 # First, let's create a sample file to read
 with open("name.txt", "w") as f:
-    f.write("Rahul is learning Python programming")
+    f.write("dipak kalal is learning python programming")
 
-print("🔹 FILE CONTENT: 'Rahul is learning Python programming'\n")
+print("🔹 FILE CONTENT: 'dipak kalal is learning python programming'\n")
 
 # Now read it with position tracking
 with open("name.txt", "r") as f:
